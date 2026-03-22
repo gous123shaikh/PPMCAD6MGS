@@ -20,4 +20,9 @@ length = 10
 width = 6
 print(calculator.calculate_rectangle_area(length, width))
 
+calculator = GeometryCalculator()
+
+length = 10
+width = 6
+print(calculator.calculate_rectangle_area(length, width))
 
